@@ -11,7 +11,7 @@ Authors@R: c(
     person(
       "Alejandro", "Guillén",
       email = "aguillenr@universidadviu.com",
-      role = c("aut", "cre")
+      role = c("aut")
     )
   )
 Description: Instrucciones con cómo usar el paquete.
