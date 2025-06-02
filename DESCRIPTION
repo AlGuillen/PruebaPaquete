@@ -1,0 +1,22 @@
+Package: PruebaPaquete
+Type: Package
+Title: Prueba de paquete de mapa de ruido 
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Raúl", "Aguilar",
+      email = "raguilar@universidadviu.com",
+      role = c("aut", "cre")
+    ),
+    person(
+      "Alejandro", "Guillén",
+      email = "aguillenr@universidadviu.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Instrucciones con cómo usar el paquete.
+    Si hay varias lines indentar.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
